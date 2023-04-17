@@ -38,7 +38,7 @@ $listaActividad = ManejoActividad::getList();
                         <div class="auth-box">
                             <div class="row m-b-20">
                                 <div class="col-md-12">
-                                    <h3 class="text-center txt-primary">Información Básica</h3>
+                                    <h3 class="text-center txt-primary">Información básica</h3>
                                 </div>
                             </div>
                             <div class="row">
